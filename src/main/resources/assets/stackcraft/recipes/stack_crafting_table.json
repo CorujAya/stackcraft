@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IWI",
+    "WCW",
+    "IWI"
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "W": { "item": "minecraft:planks" },
+    "C": { "item": "minecraft:crafting_table" }
+  },
+  "result": {
+    "item": "stackcraft:stack_crafting_table"
+  }
+}
